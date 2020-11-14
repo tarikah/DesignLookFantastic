@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="48.7055" minlon="2.1526" maxlat="48.9924" maxlon="2.4953"/>
+	<node id="447773454" lat="48.8160589" lon="2.3099241" version="9" timestamp="2019-03-04T11:23:47Z" changeset="67763254" uid="125897" user="overflorian">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="magic form"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su 10:00-14:00"/>
+		<tag k="source" v="survey 07/2017"/>
+		<tag k="wheelchair" v="no"/>
+	</node>
+	<node id="683438716" lat="48.8446935" lon="2.2868863" version="2" timestamp="2019-04-21T12:00:10Z" changeset="69422962" uid="9649775" user="Albine">
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:postcode" v="75015"/>
+		<tag k="addr:street" v="Rue de l&#39;Église"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Crossfit Lutèce"/>
+		<tag k="name:en" v="Crossfit Lutece"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+		<tag k="website" v="http://crossfitlutece.com"/>
+	</node>
+	<node id="685907646" lat="48.8689244" lon="2.3365621" version="3" timestamp="2017-01-28T09:40:39Z" changeset="45586478" uid="1429581" user="Guillaume Mortier">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="75002"/>
+		<tag k="addr:street" v="Rue Saint-Augustin"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Dynamo- Spinning"/>
+		<tag k="name:en" v="Dynamo- Spinning"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+	</node>
+	<node id="689144616" lat="48.8699452" lon="2.3291402" version="2" timestamp="2019-05-28T12:48:58Z" changeset="70695675" uid="8268816" user="Mallory Meulle">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="75002"/>
+		<tag k="addr:street" v="Boulevard des Capucines"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="yoga village Paris"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+		<tag k="website" v="http://yogavillage.fr/"/>
+	</node>
+	<node id="700256810" lat="48.8597134" lon="2.3498781" version="4" timestamp="2017-12-27T06:34:37Z" changeset="54947423" uid="4138322" user="workingclasshero212">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:country" v="FR"/>
+		<tag k="addr:housenumber" v="16-20"/>
+		<tag k="addr:postcode" v="75004"/>
+		<tag k="addr:street" v="Rue Quincampoix"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Usine Beaubourg"/>
+		<tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+		<tag k="wikidata" v="Q22921525"/>
+	</node>
+	<node id="721443159" lat="48.8578695" lon="2.3666476" version="4" timestamp="2020-01-24T19:40:49Z" changeset="80050055" uid="332493" user="bazgal">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="12-14"/>
+		<tag k="addr:postcode" v="75003"/>
+		<tag k="addr:street" v="Rue Saint-Gilles"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Omm Studio"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+	</node>
+	<node id="801262274" lat="48.8465012" lon="2.3209002" version="3" timestamp="2017-01-28T09:40:42Z" changeset="45586478" uid="1429581" user="Guillaume Mortier">
+		<tag k="addr:housenumber" v="101"/>
+		<tag k="addr:postcode" v="75006"/>
+		<tag k="addr:street" v="Rue du Cherche-Midi"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Tigre Yoga"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+	</node>
+	<node id="837732361" lat="48.9625482" lon="2.2920216" version="4" timestamp="2019-10-01T20:58:17Z" changeset="75171094" uid="587334" user="Rambobafet">
+		<tag k="addr:city" v="Épinay-sur-Seine"/>
+		<tag k="addr:housenumber" v="163"/>
+		<tag k="addr:postcode" v="93800"/>
+		<tag k="addr:street" v="Avenue Joffre"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+		<tag k="opening_hours" v="Mo-Su,PH 08:00-23:00"/>
+		<tag k="sport" v="fitness"/>
+	</node>
+	<node id="840927418" lat="48.8720775" lon="2.3091265" version="3" timestamp="2017-01-28T09:40:42Z" changeset="45586478" uid="1429581" user="Guillaume Mortier">
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="75008"/>
+		<tag k="addr:street" v="Rue La Boétie"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Dynamo Spinning"/>
+		<tag k="name:en" v="Dynamo Spinning"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+	</node>
+	<node id="1000815236" lat="48.8344025" lon="2.2406286" version="4" timestamp="2020-04-07T09:57:23Z" changeset="83189346" uid="224440" user="Syl">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Healthy Warriors"/>
+		<tag k="source" v="survey"/>
+		<tag k="sport" v="yoga;pilates"/>
+		<tag k="website" v="http://healthy-warriors.com"/>
+	</node>
+	<node id="1210791444" lat="48.986885" lon="2.448971" version="2" timestamp="2017-08-14T10:03:07Z" changeset="51105848" uid="1075986" user="py_berrard">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Acrosport"/>
+	</node>
+	<node id="1224811447" lat="48.7964176" lon="2.4579892" version="3" timestamp="2015-09-06T07:02:59Z" changeset="33826458" uid="579545" user="Aury88">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="operator" v="Magic Form"/>
+	</node>
+	<node id="1225227335" lat="48.8449625" lon="2.260361" version="4" timestamp="2019-06-28T10:40:21Z" changeset="71702813" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Studio 3C"/>
+		<tag k="source" v="survey 2019"/>
+	</node>
+	<node id="1292131470" lat="48.8661869" lon="2.3681993" version="4" timestamp="2020-01-19T20:40:35Z" changeset="79764826" uid="332493" user="bazgal">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:postcode" v="75011"/>
+		<tag k="addr:street" v="Rue du Grand Prieuré"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Kiwill - Spinning"/>
+		<tag k="name:en" v="Kiwill - Spinning"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+	</node>
+	<node id="1427038394" lat="48.8837878" lon="2.326812" version="4" timestamp="2019-03-07T13:02:00Z" changeset="67882329" uid="9497738" user="Djailla">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="EPISOD"/>
+		<tag k="source" v="survey:2016-04-29"/>
+	</node>
+	<node id="1729160247" lat="48.8965722" lon="2.2483492" version="5" timestamp="2017-10-13T18:00:43Z" changeset="52904421" uid="2805126" user="roptat">
+		<tag k="contact:phone" v="+33 1 71 03 46 00"/>
+		<tag k="contact:website" v="http://waterbike.fr/"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Waterbike"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-21:00; Sa 09:00-20:00; Su 10:00-15:00"/>
+	</node>
+	<node id="2309398962" lat="48.8790165" lon="2.3902411" version="3" timestamp="2015-07-18T18:20:36Z" changeset="32721334" uid="1598001" user="OsmIdf">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Club Azteca"/>
+		<tag k="source" v="survey"/>
+		<tag k="sport" v="gymnastics"/>
+		<tag k="website" v="http://www.club-azteca.com/"/>
+	</node>
+	<node id="2352352174" lat="48.8306746" lon="2.2755394" version="3" timestamp="2019-07-31T12:14:06Z" changeset="72853263" uid="53964" user="_Mathieu_">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Forest Hill Aquaboulevard"/>
+		<tag k="opening_hours" v="7:00-0:00"/>
+		<tag k="operator" v="Forest Hill"/>
+		<tag k="personal_trainer" v="yes"/>
+		<tag k="phone" v="+33 1 40601000"/>
+		<tag k="sauna" v="yes"/>
+		<tag k="swimming_pool" v="yes"/>
+	</node>
+	<node id="2395015528" lat="48.8470564" lon="2.3720521" version="3" timestamp="2019-06-17T13:57:42Z" changeset="71331359" uid="502891" user="chabe01">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Sunso"/>
+		<tag k="website" v="https://www.sunso.fr/"/>
+	</node>
+	<node id="2409849217" lat="48.8313926" lon="2.3720566" version="5" timestamp="2017-05-03T18:27:36Z" changeset="48373086" uid="1842888" user="nihombashi19">
+		<tag k="contact:phone" v="+33 1 45 82 76 58"/>
+		<tag k="contact:website" v="http://platiniumcenterparis.weebly.com/"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Platinium Hybrid Training Center"/>
+	</node>
+	<node id="2642212644" lat="48.8865882" lon="2.1708747" version="2" timestamp="2015-09-06T07:02:50Z" changeset="33826458" uid="579545" user="Aury88">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Vital Fitness"/>
+		<tag k="website" v="www.vital-fitness.net"/>
+	</node>
+	<node id="2662879291" lat="48.9892319" lon="2.206985" version="1" timestamp="2014-02-09T09:20:31Z" changeset="20460445" uid="704348" user="JBacc1">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Viv&#39;eden"/>
+	</node>
+	<node id="2662879294" lat="48.9912091" lon="2.2079871" version="1" timestamp="2014-02-09T09:20:31Z" changeset="20460445" uid="704348" user="JBacc1">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Énergie Forme"/>
+	</node>
+	<node id="2884000201" lat="48.876132" lon="2.334139" version="3" timestamp="2019-10-23T15:54:40Z" changeset="76113500" uid="6296343" user="BaboucheVerte">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="BodyHit"/>
+	</node>
+	<node id="3058872432" lat="48.7953031" lon="2.3380691" version="3" timestamp="2017-10-02T23:23:08Z" changeset="52581075" uid="2678738" user="fgouget">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Magic Form"/>
+		<tag k="opening_hours" v="Mo,We,Fr 09:00-21:00, Tu,Th 09:00-22:00, Sa 10:00-17:00, Su 10:00-14:00"/>
+		<tag k="personal_trainer" v="yes"/>
+		<tag k="phone" v="+33 9 84 29 51 50"/>
+		<tag k="sauna" v="no"/>
+		<tag k="swimming_pool" v="no"/>
+		<tag k="website" v="http://www.magicformcachan.fr/"/>
+	</node>
+	<node id="3102381731" lat="48.8927777" lon="2.3806617" version="2" timestamp="2014-09-29T19:15:04Z" changeset="25753685" uid="121415" user="edvac">
+		<tag k="alt_name" v="Enjoy"/>
+		<tag k="contact:website" v="http://www.enjoy-fkc.com"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Enjoy by FKC"/>
+	</node>
+	<node id="3109782531" lat="48.879407" lon="2.290025" version="2" timestamp="2015-09-06T07:02:24Z" changeset="33826458" uid="579545" user="Aury88">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Health City"/>
+	</node>
+	<node id="3126178833" lat="48.8338945" lon="2.2873449" version="3" timestamp="2019-03-07T07:58:32Z" changeset="67872055" uid="9451067" user="b-jazz-bot">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="31"/>
+		<tag k="addr:postcode" v="75015"/>
+		<tag k="addr:street" v="Rue du Hameau"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Les Cercles de la Forme"/>
+		<tag k="phone" v="+33 1 55 76 10 00"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="website" v="https://www.cerclesdelaforme.com/"/>
+	</node>
+	<node id="3269717601" lat="48.879237" lon="2.3939708" version="2" timestamp="2020-04-30T18:59:05Z" changeset="84433494" uid="1598001" user="OsmIdf">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Appart Fitness"/>
+		<tag k="source" v="survey"/>
+	</node>
+	<node id="3284932897" lat="48.8373056" lon="2.2594496" version="3" timestamp="2020-11-05T03:01:27Z" changeset="93569931" uid="502891" user="chabe01">
+		<tag k="addr:housenumber" v="126"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Best Training"/>
+		<tag k="phone" v="+33 1 56 40 00 00"/>
+		<tag k="sport" v="fitness"/>
+	</node>
+	<node id="3296447063" lat="48.7769107" lon="2.2571385" version="4" timestamp="2018-06-09T20:04:57Z" changeset="59698643" uid="1216993" user="clementroux">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Body Next"/>
+	</node>
+	<node id="3305453871" lat="48.87475" lon="2.3549541" version="3" timestamp="2017-06-06T15:30:48Z" changeset="49308830" uid="1198089" user="GeorgeKaplan">
+		<tag k="email" v="casayogaparis@gmail.com"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="CasaYoga"/>
+		<tag k="source" v="http://www.casayoga-paris.fr/"/>
+		<tag k="sport" v="yoga"/>
+		<tag k="website" v="http://www.casayoga-paris.fr/"/>
+	</node>
+	<node id="3476872834" lat="48.94484" lon="2.33087" version="2" timestamp="2018-03-14T19:14:49Z" changeset="57188117" uid="15739" user="vincentxavier">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="source" v="data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014"/>
+		<tag k="sport" v="boxing"/>
+	</node>
+	<node id="3482693201" lat="48.845331" lon="2.2842075" version="2" timestamp="2015-12-13T14:14:28Z" changeset="35926788" uid="81170" user="Beteille">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+	</node>
+	<node id="3647795154" lat="48.9055684" lon="2.2595372" version="3" timestamp="2019-12-09T11:03:50Z" changeset="78145987" uid="299486" user="Mouameme">
+		<tag k="contact:phone" v="+33 1 46 35 55 32"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Magic Form"/>
+	</node>
+	<node id="3655680391" lat="48.8316452" lon="2.3374329" version="5" timestamp="2018-11-13T09:28:30Z" changeset="64434950" uid="311391" user="patman37">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Le Cercle Saint-Jacques"/>
+		<tag k="opening_hours" v="Mo-Fr 07:30-22:00, Sa-Su 09:00-18:30"/>
+		<tag k="website" v="https://www.cerclesdelaforme.com/"/>
+	</node>
+	<node id="3896328657" lat="48.8964851" lon="2.4054758" version="5" timestamp="2019-03-07T10:32:21Z" changeset="67877369" uid="9451067" user="b-jazz-bot">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Rue La Guimard"/>
+		<tag k="contact:facebook" v="https://fr-fr.facebook.com/fightnessgympantin"/>
+		<tag k="contact:phone" v="+33 9 52633239"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fight&#39;ness Gym"/>
+		<tag k="opening_hours" v="Mo-Tu 10:00-22:00; We 12:00-22:00; Th 10:00-22:00; Sa 11:00-15:00"/>
+		<tag k="website" v="https://www.fightness-gym.fr/"/>
+	</node>
+	<node id="4304706142" lat="48.915611" lon="2.3380087" version="5" timestamp="2020-09-22T18:13:47Z" changeset="91313952" uid="1424448" user="nlehuby">
+		<tag k="addr:city" v="Saint-Ouen"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="93400"/>
+		<tag k="addr:street" v="Boulevard Jean-Jaurès"/>
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="website" v="https://www.basic-fit.com/fr-fr/salles-de-sport/saint-ouen-boulevard-jean-jaures"/>
+	</node>
+	<node id="4342536130" lat="48.8415172" lon="2.2847608" version="3" timestamp="2016-08-24T12:30:40Z" changeset="41662206" uid="3323737" user="Shalg">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="132"/>
+		<tag k="addr:postcode" v="75015"/>
+		<tag k="addr:street" v="Rue de Lourmel"/>
+		<tag k="contact:email" v="contact@aquabike-paris15.fr"/>
+		<tag k="contact:phone" v="+33983041059"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="So Forme 15"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00"/>
+		<tag k="sport" v="aquabiking"/>
+		<tag k="website" v="http://www.aquabike-paris15.fr/"/>
+	</node>
+	<node id="4369784890" lat="48.7520726" lon="2.3739206" version="1" timestamp="2016-08-27T13:43:15Z" changeset="41736365" uid="4297545" user="Jenny English">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="94320"/>
+		<tag k="addr:street" v="Rue des Alouettes"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Moving de Thiais"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+	</node>
+	<node id="4385157092" lat="48.8869944" lon="2.2743765" version="2" timestamp="2016-10-09T10:56:31Z" changeset="42751405" uid="138059" user="Truchin">
+		<tag k="addr:housenumber" v="27-31"/>
+		<tag k="addr:postcode" v="92200"/>
+		<tag k="addr:street" v="Boulevard d&#39;Inkermann"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Centre aquatique de Neuilly-sur-Seine"/>
+		<tag k="name:en" v="Centre aquatique de Neuilly-sur-Seine"/>
+	</node>
+	<node id="4392667589" lat="48.8565306" lon="2.4342478" version="1" timestamp="2016-09-08T19:59:47Z" changeset="42011731" uid="4537257" user="Supersmook">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="93100"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+		<tag k="name:fr" v="Fitness Park"/>
+	</node>
+	<node id="4406898589" lat="48.8238933" lon="2.335824" version="2" timestamp="2020-03-15T14:30:35Z" changeset="82218849" uid="311391" user="patman37">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="level" v="0"/>
+		<tag k="name" v="Kâyastha Yoga"/>
+		<tag k="sport" v="yoga"/>
+		<tag k="survey:date" v="2020-03-15"/>
+	</node>
+	<node id="4464040218" lat="48.8322285" lon="2.2415164" version="2" timestamp="2018-09-06T14:19:13Z" changeset="62345532" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="New Training"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00"/>
+		<tag k="phone" v="+33 1 46 21 20 87"/>
+		<tag k="source" v="survey 2018"/>
+	</node>
+	<node id="4466916191" lat="48.8805406" lon="2.2376005" version="2" timestamp="2018-01-11T19:56:59Z" changeset="55362203" uid="242257" user="Emmanuel Dewaele">
+		<tag k="addr:housenumber" v="135"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Orange Bleue"/>
+		<tag k="opening_hours" v="Mo-Fr 09:30-21:00; We 17:00-21:00; Sa 09:30-12:30"/>
+		<tag k="source" v="cadastre 2016 + survey"/>
+	</node>
+	<node id="4504131803" lat="48.8100377" lon="2.1898618" version="1" timestamp="2016-11-16T11:15:02Z" changeset="43696036" uid="4346095" user="jerome92370">
+		<tag k="addr:city" v="Chaville"/>
+		<tag k="addr:postcode" v="92370"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Magic Form"/>
+	</node>
+	<node id="4504699026" lat="48.9686323" lon="2.2861143" version="9" timestamp="2019-09-11T19:35:23Z" changeset="74369782" uid="49047" user="vincent_95">
+		<tag k="contact:website" v="http://www.gigafit.fr/"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Gigafit Design"/>
+		<tag k="note" v="Open soon"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="operator" v="Gigafit"/>
+		<tag k="sport" v="fitness"/>
+	</node>
+	<node id="4554150689" lat="48.8873017" lon="2.3851061" version="3" timestamp="2019-03-07T10:27:31Z" changeset="67877218" uid="9451067" user="b-jazz-bot">
+		<tag k="addr:housenumber" v="145"/>
+		<tag k="addr:postcode" v="75019"/>
+		<tag k="addr:street" v="Avenue Jean Jaurès"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Kikentai"/>
+		<tag k="name:en" v="Kikentai"/>
+		<tag k="name:fr" v="Kikentai"/>
+		<tag k="phone" v="+33153199191"/>
+		<tag k="website" v="https://kikentai.eu/"/>
+	</node>
+	<node id="4577739280" lat="48.7687918" lon="2.2514144" version="2" timestamp="2017-03-27T16:15:09Z" changeset="47205519" uid="219668" user="SeverinGeo">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Liberty Gym"/>
+	</node>
+	<node id="4596876889" lat="48.9172884" lon="2.4149982" version="2" timestamp="2017-07-04T23:44:29Z" changeset="50046416" uid="3689622" user="Fayed">
+		<tag k="addr:city" v="Bobigny"/>
+		<tag k="addr:housenumber" v="225"/>
+		<tag k="addr:postcode" v="93000"/>
+		<tag k="addr:street" v="Avenue de Stalingrad"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+		<tag k="name:pl" v="siłownia"/>
+		<tag k="sport" v="fitness"/>
+	</node>
+	<node id="4622119876" lat="48.8018999" lon="2.2598217" version="4" timestamp="2019-08-04T15:55:15Z" changeset="72992914" uid="9463427" user="TLC28">
+		<tag k="addr:city" v="Clamart"/>
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="92140"/>
+		<tag k="addr:street" v="Rue de Meudon"/>
+		<tag k="contact:phone" v="+33 1 47 36 68 37"/>
+		<tag k="email" v="contact@movingclamart.fr"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Moving"/>
+		<tag k="opening_hours" v="Mo-Th 09:00-22:00; Fr 09:00-21:30; Sa 09:00-18:00; Su 10:00-13:00"/>
+		<tag k="phone" v="+33 1 47 36 68 37"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="website" v="http://www.movingclamart.fr/"/>
+	</node>
+	<node id="4657177273" lat="48.8293424" lon="2.3757194" version="2" timestamp="2017-10-31T19:56:24Z" changeset="53406515" uid="1842888" user="nihombashi19">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+	</node>
+	<node id="4666702189" lat="48.8845567" lon="2.2902346" version="1" timestamp="2017-02-06T07:04:11Z" changeset="45847431" uid="3804751" user="Piebas">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:street" v="Boulevard Gouvion-Saint-Cyr"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="RAR Crossfit"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-22:00; Sa 09:00-16:00"/>
+	</node>
+	<node id="4743541948" lat="48.7268272" lon="2.2377218" version="2" timestamp="2017-03-19T20:54:10Z" changeset="46993364" uid="522742" user="josmougn">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Salle Municipale de Boxe"/>
+		<tag k="sport" v="boxing"/>
+	</node>
+	<node id="4788234221" lat="48.8359217" lon="2.2430864" version="1" timestamp="2017-04-11T12:18:12Z" changeset="47655465" uid="5646461" user="MthsA">
+		<tag k="addr:postcode" v="92100"/>
+		<tag k="addr:street" v="Villa Louis Lumière"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Wellness ACBB"/>
+		<tag k="opening_hours" v="Mo-Fr 8:15-14:00,16:00-21:00; Sa 8:30-17:30; Su 9:30-13:00"/>
+	</node>
+	<node id="4855418068" lat="48.8761189" lon="2.3380306" version="2" timestamp="2019-09-09T08:05:21Z" changeset="74247863" uid="2191095" user="Vince L">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Keep Cool"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="operator" v="Keep Cool"/>
+	</node>
+	<node id="4885486221" lat="48.8774827" lon="2.3522306" version="2" timestamp="2017-10-31T12:11:49Z" changeset="53392149" uid="5735678" user="BAud123">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Club Lafayette"/>
+		<tag k="name:fr" v="Club Lafayette"/>
+		<tag k="opening_hours" v="Mo-Fr 12:00-14:00,16:30-20:00"/>
+	</node>
+	<node id="4964337040" lat="48.8200382" lon="2.2579726" version="3" timestamp="2017-10-14T09:09:12Z" changeset="52918126" uid="2805126" user="roptat">
+		<tag k="is_in" v="99, avenue de Verdun"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Aquavelo d&#39;O"/>
+		<tag k="phone" v="+33 1 84 14 09 24"/>
+	</node>
+	<node id="4964337044" lat="48.8200029" lon="2.2578318" version="4" timestamp="2020-02-12T01:12:38Z" changeset="80874924" uid="2805126" user="roptat">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Curves"/>
+		<tag k="phone" v="+33 1 55 64 96 14"/>
+		<tag k="website" v="http://www.curves.fr"/>
+	</node>
+	<node id="4964630756" lat="48.8274739" lon="2.2804312" version="5" timestamp="2017-11-07T18:28:28Z" changeset="53589016" uid="3617447" user="Ugo M">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Parc"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="phone" v="+33 6 01 00 09 21"/>
+	</node>
+	<node id="5073035499" lat="48.8746096" lon="2.3563825" version="2" timestamp="2017-09-03T22:35:45Z" changeset="51703965" uid="713836" user="gendy54">
+		<tag k="description" v="Centre de Yoga Kundalini et Développement personnel"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="InterConnections"/>
+		<tag k="sport" v="yoga"/>
+	</node>
+	<node id="5144143177" lat="48.8246821" lon="2.3644415" version="1" timestamp="2017-10-03T00:46:37Z" changeset="52581746" uid="6356826" user="tqdv">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="66"/>
+		<tag k="addr:postcode" v="75013"/>
+		<tag k="addr:street" v="Avenue d&#39;Ivry"/>
+		<tag k="branch" v="Paris 13"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="Gygagym"/>
+		<tag k="opening_hours" v="Mo-Fr 06:30-23:00; Sa 09:00-20:00; Su,PH 09:00-17:00"/>
+		<tag k="phone" v="+33 1 44 24 16 38"/>
+		<tag k="website" v="http://paris13.gigagym.fr/"/>
+	</node>
+	<node id="5187839325" lat="48.8873273" lon="2.2106759" version="2" timestamp="2020-09-22T18:13:47Z" changeset="91313952" uid="1424448" user="nlehuby">
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-22:30; Sa 09:00-16:00"/>
+	</node>
+	<node id="5280050193" lat="48.9092591" lon="2.2319211" version="1" timestamp="2017-12-12T17:18:03Z" changeset="54572362" uid="242257" user="Emmanuel Dewaele">
+		<tag k="addr:housenumber" v="345"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 09:00-19:00; Su 09:00-17:00; PH off"/>
+		<tag k="website" v="http://www.neoness-forme.com/"/>
+	</node>
+	<node id="5287870036" lat="48.8186165" lon="2.3238437" version="5" timestamp="2019-03-14T12:49:53Z" changeset="68135803" uid="160521" user="François2">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="KeepCool"/>
+		<tag k="opening_hours" v="Mo-Su,PH 06:00-23:00"/>
+		<tag k="phone" v="+33 1 73 20 31 12"/>
+		<tag k="website" v="https://www.keepcool.fr/"/>
+	</node>
+	<node id="5310274713" lat="48.7573846" lon="2.3866752" version="1" timestamp="2017-12-29T13:47:52Z" changeset="55010329" uid="1570448" user="voyageant">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Liberty Gym"/>
+		<tag k="opening_hours" v="Mo-Su 6:00-23:00"/>
+	</node>
+	<node id="5363900233" lat="48.8589249" lon="2.3494495" version="4" timestamp="2018-07-30T15:35:59Z" changeset="61199722" uid="1556219" user="tbo47">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Les cercles de la forme"/>
+		<tag k="opening_hours" v="Mo-Fr 07:30-22:00; Sa, Su 10:00-19:00"/>
+		<tag k="phone" v="+33144540290"/>
+		<tag k="website" v="https://www.cerclesdelaforme.com/salle-de-sport/chatelet-4eme/"/>
+	</node>
+	<node id="5429662597" lat="48.8919882" lon="2.2354215" version="1" timestamp="2018-02-22T18:39:57Z" changeset="56588142" uid="242257" user="Emmanuel Dewaele">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 09:00-19:00; Su,PH off"/>
+		<tag k="website" v="http://www.neoness-forme.com/"/>
+	</node>
+	<node id="5430942621" lat="48.7361592" lon="2.3149481" version="2" timestamp="2018-03-01T11:21:51Z" changeset="56785678" uid="2805126" user="roptat">
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="92160"/>
+		<tag k="addr:street" v="Rue Marcelin Berthelot"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Speed Soccer"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-00:00"/>
+		<tag k="phone" v="+33 1 49 84 15 85"/>
+		<tag k="website" v="http://www.speedsoccer.fr"/>
+	</node>
+	<node id="5493190130" lat="48.8460377" lon="2.3821436" version="2" timestamp="2019-06-17T13:57:42Z" changeset="71331359" uid="502891" user="chabe01">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="75012"/>
+		<tag k="addr:street" v="Rue Crozatier"/>
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-22:30, Sa-Su 09:00-16:00"/>
+	</node>
+	<node id="5523456364" lat="48.8797752" lon="2.2378554" version="1" timestamp="2018-04-02T19:35:02Z" changeset="57750173" uid="7174018" user="Map like an ant">
+		<tag k="addr:city" v="Puteaux"/>
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="92800"/>
+		<tag k="addr:street" v="Rue Auguste Blanche"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Keep Cool"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="phone" v="+33 1 47 28 98 56"/>
+		<tag k="website" v="https://www.keepcool.fr/salle-de-sport/puteaux"/>
+	</node>
+	<node id="5527978284" lat="48.7463772" lon="2.3529093" version="2" timestamp="2019-03-08T06:15:48Z" changeset="67911067" uid="9451067" user="b-jazz-bot">
+		<tag k="addr:city" v="Rungis"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="94150"/>
+		<tag k="addr:street" v="Rue de Traversière"/>
+		<tag k="email" v="LaSalle@chameleonfitness.net"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="La Salle"/>
+		<tag k="opening_hours" v="Mo-Fr 07:30-09:30, 11:30-14:30; Mo-Th 17:00-21:00"/>
+		<tag k="phone" v="+33 1 46 75 07 75"/>
+		<tag k="website" v="https://www.chameleonfitness.com/parc-orly-rungis"/>
+	</node>
+	<node id="5581316451" lat="48.8401779" lon="2.3333016" version="2" timestamp="2020-04-27T08:35:59Z" changeset="84183495" uid="311391" user="patman37">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="75014"/>
+		<tag k="addr:street" v="Rue Campagne Première"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Yoga Garden Rive Gauche"/>
+		<tag k="sport" v="yoga;vinyasa_yoga;bikram_yoga;yin_yoga;hatha_yoga;hot_yoga"/>
+		<tag k="website" v="http://www.bikramrivegauche.com/"/>
+	</node>
+	<node id="5582060594" lat="48.827264" lon="2.3355315" version="1" timestamp="2018-04-27T08:51:34Z" changeset="58469249" uid="8180648" user="poudou">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="11ter"/>
+		<tag k="addr:postcode" v="75014"/>
+		<tag k="addr:street" v="Rue d&#39;Alésia"/>
+		<tag k="description" v="Mur d&#39;escalade de l&#39;association Roc 14"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Roc 14"/>
+		<tag k="sport" v="climbing"/>
+	</node>
+	<node id="5627073270" lat="48.8245617" lon="2.3729854" version="2" timestamp="2020-09-08T10:39:56Z" changeset="90581197" uid="1842888" user="nihombashi19">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Les cercles de la forme"/>
+	</node>
+	<node id="5642308122" lat="48.8498359" lon="2.2930014" version="2" timestamp="2019-10-22T15:11:10Z" changeset="76056326" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+	</node>
+	<node id="5768515044" lat="48.8254858" lon="2.3654893" version="1" timestamp="2018-07-18T14:41:34Z" changeset="60840178" uid="274048" user="Bokken2">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="103"/>
+		<tag k="addr:postcode" v="75013"/>
+		<tag k="addr:street" v="Rue de Tolbiac"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="CrossFit Rive Gauche"/>
+		<tag k="sport" v="crossfit"/>
+	</node>
+	<node id="5769784154" lat="48.8796651" lon="2.3293373" version="1" timestamp="2018-07-19T07:46:28Z" changeset="60860049" uid="6141372" user="Jeff_9891">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:street" v="Rue de Clichy"/>
+		<tag k="brand" v="Neoness"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness Paris Saint-Lazare"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 09:00-19:00; Su 09:00-17:00"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="website" v="https://www.neoness.fr/clubs/paris/paris-saint-lazare"/>
+	</node>
+	<node id="5774481153" lat="48.8791369" lon="2.3928178" version="2" timestamp="2019-06-24T14:06:56Z" changeset="71563088" uid="502891" user="chabe01">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Gigagym"/>
+	</node>
+	<node id="5794128478" lat="48.8615523" lon="2.3525358" version="3" timestamp="2020-11-02T22:14:33Z" changeset="93442893" uid="7550430" user="Britzz">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Cercles de la forme"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa, Su 09:00-19:00"/>
+		<tag k="phone" v="+33142772171"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="survey:date" v="2020-09-29"/>
+		<tag k="website" v="https://www.cerclesdelaforme.com/salle-de-sport/beaubourg/"/>
+	</node>
+	<node id="5838825485" lat="48.8438668" lon="2.3354141" version="3" timestamp="2018-08-17T19:47:50Z" changeset="61756036" uid="1868330" user="artonge">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="75006"/>
+		<tag k="addr:street" v="Rue Auguste Comte"/>
+		<tag k="email" v="grimpo6-contact@framalistes.org"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Grimpo 6"/>
+		<tag k="opening_hours" v="Mo 20:00-22:30; Tu 20:00-22:30; We 18:30-22:30; Fr 18:30-22:30; Sa 13:00-18:30; Su 13:00-18:00"/>
+		<tag k="website" v="https://grimpo6.org"/>
+	</node>
+	<node id="5856400138" lat="48.846424" lon="2.3804172" version="1" timestamp="2018-08-25T12:19:31Z" changeset="61983622" uid="59778" user="felGru">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="60"/>
+		<tag k="addr:postcode" v="75012"/>
+		<tag k="addr:street" v="Boulevard Diderot"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+		<tag k="sport" v="weightlifting"/>
+	</node>
+	<node id="5885328537" lat="48.9276521" lon="2.2727034" version="3" timestamp="2019-01-20T20:45:38Z" changeset="66485028" uid="2678738" user="fgouget">
+		<tag k="addr:city" v="Asnières-sur-Seine"/>
+		<tag k="addr:housenumber" v="384"/>
+		<tag k="addr:postcode" v="92600"/>
+		<tag k="addr:street" v="Avenue d&#39;Argenteuil"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 09:00-19:00; Su 09:00-17:00"/>
+		<tag k="phone" v="+33 1 84 02 80 00"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="website" v="https://www.neoness.fr/clubs/ile-de-france/asnieres-gennevilliers"/>
+	</node>
+	<node id="5896161885" lat="48.8384135" lon="2.260677" version="3" timestamp="2018-09-12T13:59:17Z" changeset="62521884" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Aqua Loft"/>
+		<tag k="opening_hours" v="Mo-Th 08:30-22:00; Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"/>
+		<tag k="source" v="survey 2018"/>
+	</node>
+	<node id="5899289850" lat="48.9880439" lon="2.2581129" version="3" timestamp="2018-11-22T21:49:30Z" changeset="64794998" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Bulles de Perles"/>
+		<tag k="phone" v="+33 1 72 53 56 06"/>
+		<tag k="shop" v="beauty"/>
+	</node>
+	<node id="5915889005" lat="48.8444331" lon="2.2985078" version="2" timestamp="2018-09-20T10:21:21Z" changeset="62757715" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Le Club"/>
+	</node>
+	<node id="5926021821" lat="48.8515704" lon="2.3460928" version="2" timestamp="2020-10-31T17:22:52Z" changeset="93346487" uid="7550430" user="Britzz">
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:street" v="Rue Saint-Jacques"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Rasa Yoga Rive Gauche"/>
+		<tag k="sport" v="yoga"/>
+		<tag k="website" v="https://www.rasa-yogarivegauche.com/"/>
+	</node>
+	<node id="5933660453" lat="48.8806979" lon="2.3627993" version="1" timestamp="2018-09-27T08:50:26Z" changeset="62970115" uid="8878247" user="Agence Ownsport">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="182"/>
+		<tag k="addr:postcode" v="75010"/>
+		<tag k="addr:street" v="Rue La Fayette"/>
+		<tag k="description" v="Ownsport est le leader français du coaching sportif à domicile. Plus d&#39;infos sur https://www.ownsport.fr"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Ownsport"/>
+		<tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+		<tag k="phone" v="+33142050610"/>
+		<tag k="sport" v="athletics;fitness;multi;yoga;exercise"/>
+	</node>
+	<node id="5934193657" lat="48.8650381" lon="2.3719273" version="1" timestamp="2018-09-27T13:24:53Z" changeset="62977738" uid="1842888" user="nihombashi19">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Athletic Planet"/>
+		<tag k="wheelchair" v="no"/>
+	</node>
+	<node id="5959040206" lat="48.9897866" lon="2.3612425" version="1" timestamp="2018-10-05T16:19:03Z" changeset="63236005" uid="7280390" user="CARBOB">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Keep Cool"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="personal_trainer" v="yes"/>
+		<tag k="sauna" v="yes"/>
+		<tag k="swimming_pool" v="no"/>
+	</node>
+	<node id="6024671488" lat="48.834232" lon="2.2347391" version="1" timestamp="2018-10-30T11:45:47Z" changeset="64008634" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Clara &#38; Jo"/>
+	</node>
+	<node id="6047501137" lat="48.9238999" lon="2.2072689" version="1" timestamp="2018-11-08T22:29:18Z" changeset="64308655" uid="14846" user="ndm">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Energie Forme"/>
+	</node>
+	<node id="6048822789" lat="48.8387456" lon="2.2399601" version="1" timestamp="2018-11-09T12:18:35Z" changeset="64323261" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Health City"/>
+	</node>
+	<node id="6057488485" lat="48.8348301" lon="2.2519043" version="2" timestamp="2018-11-13T12:41:20Z" changeset="64440752" uid="49047" user="vincent_95">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Qee"/>
+		<tag k="phone" v="+33 1 84 19 49 49"/>
+	</node>
+	<node id="6132867523" lat="48.819603" lon="2.4064772" version="1" timestamp="2018-12-12T15:07:39Z" changeset="65412537" uid="1241781" user="shawarma">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Central Gym"/>
+	</node>
+	<node id="6251368587" lat="48.8334503" lon="2.2290633" version="3" timestamp="2019-09-22T07:37:09Z" changeset="74765366" uid="6891029" user="haanders">
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-22:30; Sa-Su 09:00-16:00"/>
+	</node>
+	<node id="6264813398" lat="48.7845277" lon="2.3275882" version="1" timestamp="2019-02-07T22:15:45Z" changeset="67008739" uid="2678738" user="fgouget">
+		<tag k="description" v="Fifty Fitness Club au féminin"/>
+		<tag k="email" v="contact@fiftyfitness.fr"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fifty Fitness"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+		<tag k="phone" v="+33986518352"/>
+		<tag k="website" v="https://fiftyfitness.fr"/>
+	</node>
+	<node id="6278258514" lat="48.8294965" lon="2.3259293" version="1" timestamp="2019-02-14T10:25:30Z" changeset="67188868" uid="5735683" user="Phyks">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+		<tag k="opening_hours" v="Tu-Fr 07:00-22:00; Sa 09:00-19:00; Su 09:00-17:00; PH &#34;Voir neoness.fr&#34;"/>
+		<tag k="website" v="https://www.neoness.fr/"/>
+	</node>
+	<node id="6438353685" lat="48.8345476" lon="2.3022899" version="3" timestamp="2020-04-11T19:31:02Z" changeset="83409430" uid="215566" user="trou">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Gym flash"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+		<tag k="source" v="survey 2019"/>
+	</node>
+	<node id="6447595322" lat="48.81588" lon="2.3272556" version="1" timestamp="2019-05-04T12:24:46Z" changeset="69873584" uid="160521" user="François2">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Body Om"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-20:00"/>
+		<tag k="phone" v="+33 1 85 76 50 22"/>
+		<tag k="sport" v="yoga"/>
+		<tag k="website" v="https://www.bodyom.fr/"/>
+	</node>
+	<node id="6487359885" lat="48.8791831" lon="2.349764" version="1" timestamp="2019-05-21T07:13:51Z" changeset="70466149" uid="10020166" user="Erin Sikora">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="75010"/>
+		<tag k="addr:street" v="Rue d&#39;Abbeville"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="La Belle Equipe: Boxe, Coaching and other things"/>
+	</node>
+	<node id="6487459286" lat="48.8897459" lon="2.3691323" version="1" timestamp="2019-05-21T08:17:50Z" changeset="70468128" uid="6040347" user="mangeur 🇨🇭">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Magic Form"/>
+		<tag k="website" v="http://www.magic-form.fr"/>
+	</node>
+	<node id="6489994843" lat="48.8452302" lon="2.4383628" version="1" timestamp="2019-05-22T07:11:00Z" changeset="70503029" uid="419206" user="hmitonneau">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Studio Forme"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 09:00-18:00"/>
+	</node>
+	<node id="6499442634" lat="48.814951" lon="2.4124355" version="1" timestamp="2019-05-25T09:43:53Z" changeset="70607722" uid="858513" user="ylark">
+		<tag k="leisure" v="fitness_centre"/>
+	</node>
+	<node id="6536444888" lat="48.8831202" lon="2.3042736" version="1" timestamp="2019-06-10T06:49:43Z" changeset="71089737" uid="9631766" user="KingBabar">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="75017"/>
+		<tag k="addr:street" v="Rue Meissonier"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Espace Bikram Paris"/>
+		<tag k="opening_hours" v="Mo-Fr 06:30-22:00; Sa-Su 09:30-20:00"/>
+		<tag k="phone" v="+33 1 78 76 67 67"/>
+		<tag k="website" v="https://lespacebikramparis.com/"/>
+	</node>
+	<node id="6564654292" lat="48.8514076" lon="2.4006219" version="1" timestamp="2019-06-22T14:23:54Z" changeset="71510971" uid="7608768" user="Blyatman">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Aqua Lady"/>
+	</node>
+	<node id="6631875012" lat="48.8532914" lon="2.3931064" version="1" timestamp="2019-07-19T17:02:09Z" changeset="72440114" uid="2381194" user="althio">
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+	</node>
+	<node id="6637513807" lat="48.8653662" lon="2.3529391" version="1" timestamp="2019-07-22T12:58:16Z" changeset="72514381" uid="2381194" user="althio">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Jingya Yoga"/>
+		<tag k="sport" v="yoga"/>
+	</node>
+	<node id="6687522387" lat="48.905392" lon="2.321696" version="2" timestamp="2019-08-06T12:17:47Z" changeset="73063881" uid="1424448" user="nlehuby">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Fitness Park"/>
+	</node>
+	<node id="6695445688" lat="48.8448175" lon="2.4377096" version="1" timestamp="2019-08-08T17:30:47Z" changeset="73165127" uid="8874984" user="anyroka">
+		<tag k="addr:city" v="Vincennes"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="94300"/>
+		<tag k="addr:street" v="Avenue de Paris"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Water bike"/>
+		<tag k="sport" v="aquabike"/>
+	</node>
+	<node id="6698958368" lat="48.8163036" lon="2.2913039" version="1" timestamp="2019-08-10T14:32:41Z" changeset="73222376" uid="713836" user="gendy54">
+		<tag k="email" v="contact-malakoff@gigafit.fr"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Gigafit"/>
+		<tag k="website" v="https://gigafit.fr/club/malakoff"/>
+	</node>
+	<node id="6712673098" lat="48.8085218" lon="2.3624267" version="1" timestamp="2019-08-15T18:42:45Z" changeset="73388612" uid="57126" user="yxoc">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="neoness"/>
+		<tag k="source" v="survey 2019-08"/>
+	</node>
+	<node id="6784942486" lat="48.8464076" lon="2.2383721" version="3" timestamp="2019-11-04T10:42:30Z" changeset="76583613" uid="138059" user="Truchin">
+		<tag k="addr:housenumber" v="31"/>
+		<tag k="addr:street" v="Avenue Jean Baptiste Clément"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Aquavelo"/>
+		<tag k="source" v="survey 2019"/>
+	</node>
+	<node id="6790321285" lat="48.8263038" lon="2.2403958" version="3" timestamp="2019-09-18T13:32:18Z" changeset="74627641" uid="49047" user="vincent_95">
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:street" v="Rue Marcel Bontemps"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Le Wod"/>
+		<tag k="phone" v="+33 1 55 60 97 50"/>
+	</node>
+	<node id="6896239286" lat="48.8247374" lon="2.3481177" version="2" timestamp="2019-12-08T14:49:39Z" changeset="78111133" uid="299486" user="Mouameme">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:street" v="Rue Guyton de Morveau"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Les Cercles de la Forme"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa-Su 09:00-19:00"/>
+		<tag k="phone" v="+33 1 45 65 90 90"/>
+		<tag k="website" v="https://www.cerclesdelaforme.com/salle-de-sport/cercle-tolbiac-13eme/"/>
+	</node>
+	<node id="6909677610" lat="48.8774645" lon="2.3284211" version="1" timestamp="2019-10-23T15:48:30Z" changeset="76113231" uid="6296343" user="BaboucheVerte">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="CrossFit Louvre III"/>
+	</node>
+	<node id="6918929306" lat="48.8293119" lon="2.3459588" version="1" timestamp="2019-10-26T19:21:39Z" changeset="76251037" uid="183450" user="cypriend">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+	</node>
+	<node id="6952643185" lat="48.8738634" lon="2.3888909" version="1" timestamp="2019-11-06T20:55:58Z" changeset="76721991" uid="9454634" user="fpac">
+		<tag k="addr:housenumber" v="340"/>
+		<tag k="addr:postcode" v="75020"/>
+		<tag k="addr:street" v="Rue des Pyrénées"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Nr&#39;gym"/>
+	</node>
+	<node id="6996840912" lat="48.8324285" lon="2.3354551" version="1" timestamp="2019-11-21T16:18:49Z" changeset="77388961" uid="311391" user="patman37">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="75014"/>
+		<tag k="addr:street" v="Rue de la Tombe Issoire"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="BodyHit"/>
+	</node>
+	<node id="6996840913" lat="48.8326099" lon="2.3358363" version="3" timestamp="2020-03-15T12:17:54Z" changeset="82215798" uid="311391" user="patman37">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="75014"/>
+		<tag k="addr:street" v="Rue de la Tombe Issoire"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Breath And Core"/>
+	</node>
+	<node id="7038322685" lat="48.8706458" lon="2.3279607" version="2" timestamp="2020-04-12T12:02:04Z" changeset="83425130" uid="1836105" user="Maxime Lorant">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="75009"/>
+		<tag k="addr:street" v="Rue de Caumartin"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness Paris Madeleine"/>
+		<tag k="phone" v="+33179353366"/>
+	</node>
+	<node id="7038322785" lat="48.8683635" lon="2.3410759" version="2" timestamp="2020-04-12T12:02:04Z" changeset="83425130" uid="1836105" user="Maxime Lorant">
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:postcode" v="75002"/>
+		<tag k="addr:street" v="Rue de la Banque"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness Bourse-Opéra"/>
+		<tag k="phone" v="+33183799750"/>
+		<tag k="website" v="http://www.neoness.fr"/>
+	</node>
+	<node id="7058403767" lat="48.823989" lon="2.3454034" version="1" timestamp="2019-12-15T18:03:12Z" changeset="78436447" uid="7550430" user="Britzz">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Appart Fitness"/>
+		<tag k="website" v="https://www.l-appart.net/clubs/paris-13-charlety-75013"/>
+	</node>
+	<node id="7125714917" lat="48.8226516" lon="2.4150789" version="1" timestamp="2020-01-12T10:00:54Z" changeset="79471161" uid="1241781" user="shawarma">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Body Hit"/>
+	</node>
+	<node id="7141418787" lat="48.8589611" lon="2.4271269" version="5" timestamp="2020-03-18T22:02:33Z" changeset="82365163" uid="502891" user="chabe01">
+		<tag k="addr:housenumber" v="146"/>
+		<tag k="addr:street" v="Boulevard Chanzy"/>
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-22:30; Sa-Su 09:00-16:00"/>
+		<tag k="website" v="https://www.basic-fit.com/fr-fr/salle-de-sport/basic-fit-montreuil-boulevard-chanzy-433f1e939aef4dcb9499d9b6d79b7730.html"/>
+	</node>
+	<node id="7177941743" lat="48.7806789" lon="2.2061121" version="1" timestamp="2020-02-01T20:29:41Z" changeset="80420616" uid="2161637" user="strasz-li">
+		<tag k="addr:city" v="Vélizy-Villacoublay"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="78180"/>
+		<tag k="addr:street" v="Avenue Morane Saulnier"/>
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+	</node>
+	<node id="7200618717" lat="48.8423448" lon="2.3402734" version="1" timestamp="2020-02-10T14:04:35Z" changeset="80800427" uid="10762876" user="Nils3112">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Gymnase Lavoisier"/>
+	</node>
+	<node id="7221216417" lat="48.8684461" lon="2.2249719" version="1" timestamp="2020-02-17T21:00:18Z" changeset="81136579" uid="262836" user="Greteck">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="La Galerie"/>
+		<tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2020"/>
+	</node>
+	<node id="7260483477" lat="48.8486682" lon="2.4290461" version="4" timestamp="2020-09-02T08:26:02Z" changeset="90288675" uid="10268022" user="Gollux">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Au garage club"/>
+		<tag k="opening_hours" v="Mo,Tu,Th 11:00-21:00, Tu,Th 07:00-09:00; We,Fr 11:00-20:00; Sa 10:00-14:00"/>
+		<tag k="wheelchair" v="no"/>
+	</node>
+	<node id="7288923085" lat="48.831734" lon="2.3390731" version="1" timestamp="2020-03-12T15:36:17Z" changeset="82117888" uid="311391" user="patman37">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Keep cool"/>
+		<tag k="survey:date" v="2020-03-12"/>
+	</node>
+	<node id="7294344886" lat="48.9210768" lon="2.3628476" version="3" timestamp="2020-09-22T18:13:47Z" changeset="91313952" uid="1424448" user="nlehuby">
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+	</node>
+	<node id="7447416575" lat="48.9481016" lon="2.2053806" version="2" timestamp="2020-09-22T18:13:47Z" changeset="91313952" uid="1424448" user="nlehuby">
+		<tag k="addr:city" v="Sartrouville"/>
+		<tag k="addr:country" v="FR"/>
+		<tag k="addr:postcode" v="78500"/>
+		<tag k="addr:street" v="Rue des Sureaux"/>
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+		<tag k="sport" v="fitness"/>
+		<tag k="website" v="https://www.basic-fit.com/fr-fr"/>
+	</node>
+	<node id="7472967287" lat="48.8356348" lon="2.324856" version="2" timestamp="2020-05-02T08:16:34Z" changeset="84510033" uid="311391" user="patman37">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Le temps du yoga"/>
+		<tag k="sport" v="yoga"/>
+		<tag k="survey:date" v="2020-05-02"/>
+	</node>
+	<node id="7487075293" lat="48.7939279" lon="2.4774198" version="1" timestamp="2020-05-05T19:26:38Z" changeset="84714921" uid="10131249" user="sudo_man">
+		<tag k="addr:city" v="Saint-Maur-des-Fossés"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="94100"/>
+		<tag k="addr:street" v="Avenue Jean Jaurès"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Orange Bleue"/>
+		<tag k="sport" v="fitness"/>
+	</node>
+	<node id="7515834694" lat="48.8099703" lon="2.4499038" version="1" timestamp="2020-05-13T20:47:43Z" changeset="85164171" uid="10539363" user="Nle85">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Elite Club"/>
+	</node>
+	<node id="7515834696" lat="48.8071694" lon="2.4423686" version="1" timestamp="2020-05-13T20:47:43Z" changeset="85164171" uid="10539363" user="Nle85">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Centre 16"/>
+	</node>
+	<node id="7544927450" lat="48.8864897" lon="2.3127204" version="1" timestamp="2020-05-21T13:01:42Z" changeset="85556560" uid="3834000" user="CécileTG">
+		<tag k="addr:city" v="Paris"/>
+		<tag k="addr:country" v="FR"/>
+		<tag k="addr:housenumber" v="131"/>
+		<tag k="addr:postcode" v="75017"/>
+		<tag k="addr:street" v="Rue Cardinet"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Forme Express"/>
+		<tag k="sport" v="fitness;running;exercise"/>
+		<tag k="website" v="https://www.forme-express-paris17.com/"/>
+	</node>
+	<node id="7670539110" lat="48.9226876" lon="2.2569543" version="1" timestamp="2020-06-30T13:21:12Z" changeset="87351101" uid="11422040" user="roymata">
+		<tag k="brand" v="Basic-Fit"/>
+		<tag k="brand:wikidata" v="Q40165577"/>
+		<tag k="brand:wikipedia" v="nl:Basic-Fit"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Basic-Fit"/>
+	</node>
+	<node id="7724323985" lat="48.8674661" lon="2.3334545" version="1" timestamp="2020-07-17T12:32:12Z" changeset="88143802" uid="8228128" user="Sophie Gimeno">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Reebok CrossFit Louvre"/>
+	</node>
+	<node id="7753007583" lat="48.8882723" lon="2.3192679" version="1" timestamp="2020-07-26T21:30:36Z" changeset="88533101" uid="1205555" user="benoitdd">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Qee yoga pilate"/>
+		<tag k="sport" v="multi"/>
+	</node>
+	<node id="7855502855" lat="48.8651267" lon="2.3499372" version="1" timestamp="2020-08-28T22:18:36Z" changeset="90101774" uid="4741702" user="Kazing">
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="Neoness"/>
+		<tag k="website" v="https://www.neoness.fr/clubs/paris-idf/paris-chatelet-montorgueil"/>
+	</node>
+	<node id="7989324585" lat="48.9011368" lon="2.3010518" version="2" timestamp="2020-10-15T23:56:07Z" changeset="92546383" uid="2678738" user="fgouget">
+		<tag k="brand" v="L&#39;Orange Bleue"/>
+		<tag k="leisure" v="fitness_centre"/>
+		<tag k="name" v="L&#39;Orange Bleue"/>
+		<tag k="opening_hours" v="06:00-23:00"/>
+		<tag k="phone" v="+33 1 47 30 10 88"/>
+		<tag k="survey:date" v="2020-10-08"/>
+		<tag k="website" v="https://lorangebleue.fr"/>
+	</node>
+</osm>
