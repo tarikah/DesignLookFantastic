@@ -1,0 +1,16 @@
+
+osmfilter paris.osm --keep-nodes="shop=hairdresser" --drop="access=no" --drop-ways --drop-relations --ignore-dependencies  -o=parishairdressers.osm
+
+osmfilter paris.osm --keep-nodes="shop=clothes" --drop="access=no" --drop-ways --drop-relations --ignore-dependencies  -o=parisclothesshops.osm
+
+osmfilter paris.osm --keep-nodes="leisure=fitness_centre" --drop="access=no" --drop-ways --drop-relations --ignore-dependencies  -o=parisfitnesscentres.osm
+
+osmfilter paris.osm --keep-nodes="shop=beauty" --drop="access=no" --drop-ways --drop-relations --ignore-dependencies  -o=parisbeautysalons.osm
+
+osmconvert parishairdressers.osm --all-to-nodes --csv="@id @lon @lat name opening_hours website phone addr:street" --csv-headline --csv-separator="," --out-csv -o="hairdressers.csv"
+
+osmconvert parisclothesshops.osm --all-to-nodes --csv="@id @lon @lat name opening_hours website addr:street" --csv-headline --csv-separator="," --out-csv -o="clothes.csv"
+
+osmconvert parisbeautysalons.osm --all-to-nodes --csv="@id @lon @lat name opening_hours website phone addr:street " --csv-headline --csv-separator="," --out-csv -o="beautysalons.csv"
+
+osmconvert parisfitnesscentres.osm --all-to-nodes --csv="@id @lon @lat name opening_hours website phone addr:street " --csv-headline --csv-separator="," --out-csv -o="fitnesscentres.csv"
